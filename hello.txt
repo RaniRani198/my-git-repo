@@ -1,0 +1,1 @@
+ - Learn git commands so that u can push and pull the application
